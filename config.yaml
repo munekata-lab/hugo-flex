@@ -43,3 +43,6 @@ menu:
     - name: News
       url: news/
       weight: 5
+    - name: OB
+      url: ob/
+      weight: 6
